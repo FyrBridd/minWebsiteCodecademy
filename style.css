@@ -1,3 +1,7 @@
+* {
+    scroll-padding-top: 3rem;
+}
+
 body {
     background-color: var(--hazy-sky);
     font-family: "Hind", sans-serif;
